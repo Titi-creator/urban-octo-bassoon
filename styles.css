@@ -1,0 +1,18 @@
+
+  body {
+    background-color: #edcfa9;
+  }
+  h1 {
+    color : #aa4a30;
+    font-family: monospace;
+    font-size: 30px
+  }
+  h3 {
+    color: #aa4a30;
+  }
+  hr {
+    border-style: dotted none none ;
+    border-width: 6px;
+    border-color: #d57149;
+    width: 5%;
+  }
